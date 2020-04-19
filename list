@@ -1,0 +1,140 @@
+#EXTM3U
+  
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png" group-title="Malaysia",TV1
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b364000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="Malaysia",TV2
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png" group-title="Malaysia",TV3
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQqCYOYVPonD1hXRILo-gk8)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="Malaysia", Astro - RIA
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_357.png" group-title="Malaysia", Astro - PRIMA
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/83/Astro_Warna.jpg" group-title="Malaysia", Astro - WARNA
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="Malaysia", NTV7
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYIzQgjWsMdEW2fxFfdZ-Cg)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="Malaysia",8TV
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc1OR7D6ciuCv7Xp-SYh82s)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="Malaysia",TV9
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcAaUxvCLwy0lIkjb6rgWi8)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="Malaysia",Drama Sangat
+https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lEuHJMG0tYMDviG_hwNrtk)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png" group-title="Malaysia", HYPP SENSASI
+http://62.210.246.131:25461/gxfgss/HHVVPP/28664?token=HhVYAkpZQF8XBlNYVw9ZA1ADA1IJXFRVUwFeAABQAgRQUQhVDFJRUFYTThtFQ0pVUlk6X1QaWVNdBA5XG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBVURsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:-1 tvg-group="MY/SG tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png" group-title="Malaysia", HYPP INSPIRASI
+http://62.210.124.97:8080/live/gxfgss/HHVVPP/33256.ts?token=HhVYAkpZQF8XV1YJAQRcAVYCVAQJDgJRVAAOUwJdUlVRUgkAAVJXB1MTThtFQ0pVUlk6X1QaWVJWAA1VG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUQFZUBsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png" group-title="Singapura",Suria 
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png" group-title="Movie", DUNIA SINEMA
+http://62.210.246.131:25461/gxfgss/HHVVPP/28681?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_300.png" group-title="Movie", Astro - CITRA
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movie", FOX MOVIES
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28676.ts?token=HhVYAkpZQF8XAwEOAQ9eVQYEUAIDDgZTVwtbVVFXAwVTUQcGCQhWU1QTThtFQ0pVUlk6X1QaWVNdBA9VG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUQ5XVhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png" group-title="Movie", FOX ACTION MOVIES
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28670.ts?token=HhVYAkpZQF8XCQAKAlEBBQVRAAZWXAdQBgEAUQJdU1AHBgAFW1dUA1YTThtFQ0pVUlk6X1QaWVNdBA9TG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUQ9QURsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MALAYSIA TV" group-title="Movie", CELESTIAL MOVIES
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28688.ts?token=HhVYAkpZQF8XAlUNUgEKUQIFUgQBW1VVVFYKV1UAV1JUVQgGCQJVUwATThtFQ0pVUlk6X1QaWVNdBABbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUARVVRsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+ 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://i2.wp.com/tva.onscreenasia.com/wp-content/uploads/2016/03/scm_crown.jpg?fit=450%2C450&ssl=1" group-title="Movie", SCM
+http://62.210.124.97:8080/live/gxfgss/HHVVPP/33249.ts?token=HhVYAkpZQF8XCVVYBAMIVAZWXAIBCwJYA1EPAgZXV1VdBlFTCwRVV1YTThtFQ0pVUlk6X1QaWVJWAAxaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUQZXUhsSE1BVQF8XB1sPAhUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBxIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYV0NbVBwRVwpDXkwRGEcIGi5uRxpDAE9EBldCCwpbE1gbQkQaHBFdFmlCXRAVF1dZDlIXFFtHBxJPG1wDHWpSDVdYUltEWlsLRRICQVBHHhoOWAtfFQpFbxNQVUBfFwdbDAEVRQ==
+ 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://2.bp.blogspot.com/-_FhkO-1-L6E/WdkZiYlDHXI/AAAAAAAAq5c/P7HA7Ou76WoJiY6NP3I-v4_I9MauiHQIQCLcBGAs/s1600/hypptv-mid-autumn-tanglung-movie-fest-outdoor-screening-padang-setia-city-mall-scm-legend.jpg", SCM LEGEND
+http://62.210.124.97:8080/live/gxfgss/HHVVPP/33250.ts?token=HhVYAkpZQF8XUFALVVILBgYNBg5SWlpRAAcIAVNVUFBQAVNTClNSXA0TThtFQ0pVUlk6X1QaWVJWAA1TG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUQdTUhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Movie", BOO
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+
+#EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movie", CINEMA WORLD
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28687.ts?token=HhVYAkpZQF8XVwMMBwUOAgENXQdTXlIEBAsOUFFRA1gBBQRbCgYBVwcTThtFQ0pVUlk6X1QaWVNdBABUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUAdWURsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="Islamik", Astro - OASIS
+http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=6ed99f164db0c90030ce10756604b757
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png" group-title="Islamik",TV Alhijrah
+http://62.210.246.131:25461/gxfgss/HHVVPP/28636?token=HhVYAkpZQF8XVwEADlNdAVABXVcDCVBYAFAAAAQDBFJTAABXX1AEBg0TThtFQ0pVUlk6X1QaWVNdBAtVG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1QAUgdTUBsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Knowledge", Nat Geo Wild + Sub
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28750.ts?token=HhVYAkpZQF8XA1MIUgcMU1UHXANUDFsHVVdeWlQGVQNSUVQBCgBaVVcTThtFQ0pVUlk6X1QaWVNdBQ1TG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUgVSUBsSE1BVQF8XAFIBAwYaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQECQQDFhg=
+ 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Knowledge", Nat Geo People HD
+http://ipdax.top:41000/hatmyx/hjghyut/28
+ 
+#EXTINF:-1 ttvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Knowledge", Net Geo People + Sub
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28751.ts?token=HhVYAkpZQF8XBVBaAQIPBwJSUlIEDlQDBlcOUFEEDlcEAlVRAAUBXFQTThtFQ0pVUlk6X1QaWVNdBQ1SG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUAZXVxsSE1BVQF8XB1oLAhUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBxIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwcFCQIRGEdVX00NFRdLGlkVKG9DSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtACwEHCAIRSQ==
+ 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://i1.wp.com/chipandco.com/wp-content/uploads/2019/07/National-Geographic-Logo.png?ssl=1" group-title="Knowledge", National Geographic + Sub
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28752.ts?token=HhVYAkpZQF8XCVAIBFQOB1YGXA8BDVNYUFZaVQNQUABcD1VUCAJbUVETThtFQ0pVUlk6X1QaWVNdBQ1RG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUgJRVhsSE1BVQF8XB1oJFBsaVUtAAEReWQ8+AVdOClQAFFsLQlwPFRMNC2pVB1RXWVwSCRZUFBwaChIVEAINQglaTUdVWRdLUBYAFwtACAQHDxIfFgZZRVYXExwQAkF6PBRNR1JIF1xfEQxaX0ADFENLEh8WDEVvSgYSEUBdAloARENfFQBBFRMPBE1uAVZYWV1TR10KWEMaWUNUEBRBWgpYCBFYQjxJWAZHDxNRCAYADhJO
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b364000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png" group-title="News",Astro Awani 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png" group-title="News",BERNAMA 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587045887/ei/nhGYXrWDPLv54-EPoK-v4Aw/ip/202.187.209.211/id/Nkp6aUDGf4Q.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/11330/mh/tC/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/0/pl/15/dover/11/keepalive/yes/mt/1587024856/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJpPlLswRQIhANRqlLwcnszVqNXTtdXaocZg7zB50mQVx1vzrcTko7iEAiAmdFJcOvwJznO375xA3P1O9cCA99PJppiFgGtDltuYlg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRQIhAKx-ln_3rx0mCWKHZiN0FD39lqht4fF076BNEd9OarZyAiBUYvX0Jpdsm0_QZxogE9yTI4-sJoWR9iNErXMEuUNQBQ%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="News",Berita RTM
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b364000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png" group-title="News",Channel NewsAsia 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="News",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="News",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png" group-title="News",Bloomberg 
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.manis.fm/web/media/2018/01/manisfm-player-300x300.png" group-title="Radio", Manis FM
+http://ingest2.husa.rastream.com/husa-manis
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/whb4utLhtp.png" group-title="Radio", Era FM
+http://astro2.rastream.com/era
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/U64mECYBuK.jpg" group-title="Radio", Hitz FM
+http://astro2.rastream.com/hitz
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/cyqqphe6KP.png" group-title="Radio", Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/MFvmSRmJDc.jpg" group-title="Radio", Suria FM
+http://starrfm.rastream.com/starrfm-suria.android
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/6WpzDY2yrH.jpg" group-title="Radio", Sinar FM
+http://astro2.rastream.com/sinar
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/aYVbJaEnPR.png" group-title="Radio", Thr Gegar
+http://astro2.rastream.com/gegar
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.astroawani.com/images/stdastro_300x250_arena_1.jpg" group-title="Radio", ARENA FM
+http://astro1.rastream.com/amp-arena
