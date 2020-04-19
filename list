@@ -87,8 +87,8 @@ http://62.210.246.131:25461/live/gxfgss/HHVVPP/28751.ts?token=HhVYAkpZQF8XBVBaAQ
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://i1.wp.com/chipandco.com/wp-content/uploads/2019/07/National-Geographic-Logo.png?ssl=1" group-title="Knowledge", National Geographic + Sub
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28752.ts?token=HhVYAkpZQF8XCVAIBFQOB1YGXA8BDVNYUFZaVQNQUABcD1VUCAJbUVETThtFQ0pVUlk6X1QaWVNdBQ1RG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUgJRVhsSE1BVQF8XB1oJFBsaVUtAAEReWQ8+AVdOClQAFFsLQlwPFRMNC2pVB1RXWVwSCRZUFBwaChIVEAINQglaTUdVWRdLUBYAFwtACAQHDxIfFgZZRVYXExwQAkF6PBRNR1JIF1xfEQxaX0ADFENLEh8WDEVvSgYSEUBdAloARENfFQBBFRMPBE1uAVZYWV1TR10KWEMaWUNUEBRBWgpYCBFYQjxJWAZHDxNRCAYADhJO
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
-https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b364000.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png" group-title="Sport",RTM Sports HD
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png" group-title="News",Astro Awani 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
