@@ -60,6 +60,9 @@ http://62.210.124.97:8080/live/gxfgss/HHVVPP/33249.ts?token=HhVYAkpZQF8XCVVYBAMI
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://2.bp.blogspot.com/-_FhkO-1-L6E/WdkZiYlDHXI/AAAAAAAAq5c/P7HA7Ou76WoJiY6NP3I-v4_I9MauiHQIQCLcBGAs/s1600/hypptv-mid-autumn-tanglung-movie-fest-outdoor-screening-padang-setia-city-mall-scm-legend.jpg", SCM LEGEND
 http://62.210.124.97:8080/live/gxfgss/HHVVPP/33250.ts?token=HhVYAkpZQF8XUFALVVILBgYNBg5SWlpRAAcIAVNVUFBQAVNTClNSXA0TThtFQ0pVUlk6X1QaWVJWAA1TG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUQdTUhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 
+#EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=20170606050150" group-title="Movie", THRILL
+http://62.210.127.17:8080/live/gxfgss/HHVVPP/18549.ts?token=HhVYAkpZQF8XU1oJAw4PVQEMAwVSDQICXABZAgJVBFcAVQFUCgMHVwcTThtFQ0pVUlk6X1QaWVBdBwxaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClUCUwVVUBsSE1BVQF8XAlMAAAcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEDFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwIBDwARSQ==
+
 #EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Movie", BOO
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
@@ -113,6 +116,9 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png" group-title="News",Bloomberg 
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png" group-title="News",HBO
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MSIA/1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzM4MDQ5Mn19fV19&Signature=Icf9dFYLcHbhLK4jK5A8dwo1MsbMlHOJOe36IVaasttb~8hUvLIKwWjDzQ5TEA9Jr4odv2alh1yJCCLL-xCdPK8IZos1Wb3plTYtUOwYtJE~wkmdtqPagQEBte3wQ0q-s5UkE8cKSXusxL5SBpvS8KyWflZ~kYFTz1la6dRC8D3Zb6l7Or7JmsI51cmcdmfjxe-rGLw~Z1y6BzrfSIjAgzf9t4s0EaF40jQhrv9ifp0DDGCArtY~Hv8mOC6ebYj~VowLmw076b4rjuv5onG8uYWz-rswO1Rd7O-OMHLLv9JOS0~6L5zFb9Z-9nu-70y0vxp72MXzJgYY3pCMfYIg5g__&Key-Pair-Id=APKAJFBTWETXLROKW43A|Referer=https://www.hbogoasia.my/
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.manis.fm/web/media/2018/01/manisfm-player-300x300.png" group-title="Radio", Manis FM
