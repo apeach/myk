@@ -124,7 +124,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png" group-title="News",HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MSIA/1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzM4MDQ5Mn19fV19&Signature=Icf9dFYLcHbhLK4jK5A8dwo1MsbMlHOJOe36IVaasttb~8hUvLIKwWjDzQ5TEA9Jr4odv2alh1yJCCLL-xCdPK8IZos1Wb3plTYtUOwYtJE~wkmdtqPagQEBte3wQ0q-s5UkE8cKSXusxL5SBpvS8KyWflZ~kYFTz1la6dRC8D3Zb6l7Or7JmsI51cmcdmfjxe-rGLw~Z1y6BzrfSIjAgzf9t4s0EaF40jQhrv9ifp0DDGCArtY~Hv8mOC6ebYj~VowLmw076b4rjuv5onG8uYWz-rswO1Rd7O-OMHLLv9JOS0~6L5zFb9Z-9nu-70y0vxp72MXzJgYY3pCMfYIg5g__&Key-Pair-Id=APKAJFBTWETXLROKW43A|Referer=https://www.hbogoasia.my/
+http://forsat.men:8888/merpatistream/merpati99/4828
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.manis.fm/web/media/2018/01/manisfm-player-300x300.png" group-title="Radio", Manis FM
