@@ -37,7 +37,7 @@ http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28664?token=QhVcUhcJRggXBwVXAlc
 hthttp://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/33256?token=QhVcUhcJRggXVgReAQMHVgcEDlIFUQcHVVQAVlFaVQRdBQRQUFRcBAVGGURBEkJRAFtpWgVEXlBWVgBXSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWUVZSARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhItp://62.210.124.97:8080/p9JJJ9g9TY/f7HrN449rs/33256?token=HhVYAkpZQF8XAAYIV1QBAlEFXFVRWQEAVlMKWwNVB1dQB1EGWABRXQATThtFQ0pVUlk6X1QaWVJWAA1VG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGUgNSURsSE1BVQF8XAlMJBwMaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQHGhwRVwpDXkwRGEcIGi5uRxpDAE9EBldCCwpbE1gbQkQaHBFdFmlCXRAVF1dZDlIXFFtHBxJPG1wDHWpSDVdYUltEWlsLRRICQVBHHhoOWAtfFQpFbxNQVUBfFwNVAAMDGk0=
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png" group-title="Singapura",Suria 
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png" group-title="Movie", DUNIA SINEMA
 http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28681?token=QhVcUhcJRggXVlZQAgVTAQAHAQtTAAJaVFYDWFBUUFgLBFJWVQQCBARGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1dSU1BSCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
@@ -84,17 +84,14 @@ http://62.210.246.131:25461/gxfgss/HHVVPP/28636?token=HhVYAkpZQF8XVwEADlNdAVABXV
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Knowledge", Nat Geo Wild + Sub
-http://62.210.246.131:25461/live/gxfgss/HHVVPP/28750.ts?token=HhVYAkpZQF8XA1MIUgcMU1UHXANUDFsHVVdeWlQGVQNSUVQBCgBaVVcTThtFQ0pVUlk6X1QaWVNdBQ1TG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUgVSUBsSE1BVQF8XAFIBAwYaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEAFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQECQQDFhg=
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Knowledge", Nat Geo Wild
+http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28750?token=HhVYAkpZQF8XBlBdDgEPVAMDAVJUWQVTA1AIBwZWAVYEVVNWDlcHUFYTThtFQ0pVUlk6X1QaWVNdBQ1TG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFALCFIAVg5UXRsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
  
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Knowledge", Nat Geo People HD
-http://ipdax.top:41000/hatmyx/hjghyut/28
+#EXTINF:-1 ttvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Knowledge", Net Geo People
+http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28751?token=HhVYAkpZQF8XVFpYB1EMVQMNUFUFWQcDXAVeBg5dUgNUVgQFDAZSXFETThtFQ0pVUlk6X1QaWVNdBQ1SG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFALCFIAVg9TVRsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
  
-#EXTINF:-1 ttvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Knowledge", Net Geo People + Sub
-http://62.210.246.131:25461/live/gxfgss/HHVVPP/28751.ts?token=HhVYAkpZQF8XBVBaAQIPBwJSUlIEDlQDBlcOUFEEDlcEAlVRAAUBXFQTThtFQ0pVUlk6X1QaWVNdBQ1SG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUAZXVxsSE1BVQF8XB1oLAhUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBxIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwcFCQIRGEdVX00NFRdLGlkVKG9DSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtACwEHCAIRSQ==
- 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://i1.wp.com/chipandco.com/wp-content/uploads/2019/07/National-Geographic-Logo.png?ssl=1" group-title="Knowledge", National Geographic + Sub
-http://62.210.246.131:25461/live/gxfgss/HHVVPP/28752.ts?token=HhVYAkpZQF8XCVAIBFQOB1YGXA8BDVNYUFZaVQNQUABcD1VUCAJbUVETThtFQ0pVUlk6X1QaWVNdBQ1RG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUgJRVhsSE1BVQF8XB1oJFBsaVUtAAEReWQ8+AVdOClQAFFsLQlwPFRMNC2pVB1RXWVwSCRZUFBwaChIVEAINQglaTUdVWRdLUBYAFwtACAQHDxIfFgZZRVYXExwQAkF6PBRNR1JIF1xfEQxaX0ADFENLEh8WDEVvSgYSEUBdAloARENfFQBBFRMPBE1uAVZYWV1TR10KWEMaWUNUEBRBWgpYCBFYQjxJWAZHDxNRCAYADhJO
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://i1.wp.com/chipandco.com/wp-content/uploads/2019/07/National-Geographic-Logo.png?ssl=1" group-title="Knowledge", National Geographic
+http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28752?token=QhVcUhcJRggXUlZQBlYJBFIEVVVZA1MHXQFQBVNaUwcOUVFQUlIBBwxGGURBEkJRAFtpWgVEXlFdUwBTSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWVFFXCxsWQw0FRggXVQVSB1QSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAQ1VFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRAFfABYc
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png" group-title="Sport",RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
