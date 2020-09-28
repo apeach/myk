@@ -1,9 +1,9 @@
 #EXTM3U
   
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png" group-title="Malaysia",TV1
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/1200px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="Malaysia",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_TV3_%28Malaysia%29.svg/1280px-Logo_of_TV3_%28Malaysia%29.svg.png" group-title="Malaysia",TV3
@@ -59,18 +59,12 @@ http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28678?token=QhVcUhcJRggXBlZQAFN
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://seeklogo.com/images/F/fox-movies-premium-logo-BA0887F20E-seeklogo.com.png" group-title="Movie", FOX MOVIES PREMIUM
 http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28774?token=HhVYAkpZQF8XB1sPAVYAAlcCUARVD1VRBgoJBVIEUlFUVVQFXFdSBgUTThtFQ0pVUlk6X1QaWVNdBQ9XG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFALCFIAVw5RUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
-
-#EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MALAYSIA TV" group-title="Movie", CELESTIAL MOVIES
-http://62.210.246.131:25461/live/gxfgss/HHVVPP/28688.ts?token=HhVYAkpZQF8XAlUNUgEKUQIFUgQBW1VVVFYKV1UAV1JUVQgGCQJVUwATThtFQ0pVUlk6X1QaWVNdBABbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUARVVRsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
  
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://i2.wp.com/tva.onscreenasia.com/wp-content/uploads/2016/03/scm_crown.jpg?fit=450%2C450&ssl=1" group-title="Movie", SCM
 http://62.210.124.97:8080/p9JJJ9g9TY/f7HrN449rs/33249?token=QhVcUhcJRggXUQdeCwJRVVMEBVVVVwICVgZXU1VRAFILB1JRUlcCClRGGURBEkJRAFtpWgVEXlBWVgFYSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWVlFUDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
  
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://2.bp.blogspot.com/-_FhkO-1-L6E/WdkZiYlDHXI/AAAAAAAAq5c/P7HA7Ou76WoJiY6NP3I-v4_I9MauiHQIQCLcBGAs/s1600/hypptv-mid-autumn-tanglung-movie-fest-outdoor-screening-padang-setia-city-mall-scm-legend.jpg", SCM LEGEND
 http://62.210.124.97:8080/p9JJJ9g9TY/f7HrN449rs/33250?token=QhVcUhcJRggXBgReBgdRDFFVAQIDXlZaU1QHUVFUB1MIVlYCBlNTAgRGGURBEkJRAFtpWgVEXlBWVgBRSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWVlFYABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=20170606050150" group-title="Movie", THRILL
-http://62.210.127.17:8080/live/gxfgss/HHVVPP/18549.ts?token=HhVYAkpZQF8XU1oJAw4PVQEMAwVSDQICXABZAgJVBFcAVQFUCgMHVwcTThtFQ0pVUlk6X1QaWVBdBwxaG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClUCUwVVUBsSE1BVQF8XAlMAAAcaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgEDFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwIBDwARSQ==
 
 #EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Movie", BOO
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
