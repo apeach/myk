@@ -22,16 +22,16 @@ http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="Malaysia", NTV7
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZwPCfJNDv64E-AxiihnLQM)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="Malaysia",8TV
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUqVq6KTa9FdmWnu4D5Grts)/dm/3/x6qud17/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="Malaysia",TV9
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXbPViKjr2XZ28M9D8jvA_o)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="Malaysia",Drama Sangat
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lPf78aMhZUzZr9SgE0iVY0)/dm/3/x6zvnex/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
+https://fvtv.mywire.org/playlist/2ua1sbzyxg-zxscuf2xek.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png" group-title="Malaysia", HYPP SENSASI
 http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28664?token=QhVcUhcJRggXBwVXAlcCUlRSBAQFAwUCUFUHAlZXVFBfUgwEBVQAUQdGGURBEkJRAFtpWgVEXlFdUgNVSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWUVFZABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
@@ -40,7 +40,7 @@ http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28664?token=QhVcUhcJRggXBwVXAlc
 hthttp://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/33256?token=QhVcUhcJRggXVgReAQMHVgcEDlIFUQcHVVQAVlFaVQRdBQRQUFRcBAVGGURBEkJRAFtpWgVEXlBWVgBXSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWUVZSARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhItp://62.210.124.97:8080/p9JJJ9g9TY/f7HrN449rs/33256?token=HhVYAkpZQF8XAAYIV1QBAlEFXFVRWQEAVlMKWwNVB1dQB1EGWABRXQATThtFQ0pVUlk6X1QaWVJWAA1VG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGUgNSURsSE1BVQF8XAlMJBwMaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQHGhwRVwpDXkwRGEcIGi5uRxpDAE9EBldCCwpbE1gbQkQaHBFdFmlCXRAVF1dZDlIXFFtHBxJPG1wDHWpSDVdYUltEWlsLRRICQVBHHhoOWAtfFQpFbxNQVUBfFwNVAAMDGk0=
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png" group-title="Singapura",Suria 
-http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png" group-title="Movie", DUNIA SINEMA
 http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28681?token=QhVcUhcJRggXVlZQAgVTAQAHAQtTAAJaVFYDWFBUUFgLBFJWVQQCBARGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1dSU1BSCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
@@ -65,9 +65,6 @@ http://62.210.124.97:8080/p9JJJ9g9TY/f7HrN449rs/33249?token=QhVcUhcJRggXUQdeCwJR
  
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://2.bp.blogspot.com/-_FhkO-1-L6E/WdkZiYlDHXI/AAAAAAAAq5c/P7HA7Ou76WoJiY6NP3I-v4_I9MauiHQIQCLcBGAs/s1600/hypptv-mid-autumn-tanglung-movie-fest-outdoor-screening-padang-setia-city-mall-scm-legend.jpg", SCM LEGEND
 http://62.210.124.97:8080/p9JJJ9g9TY/f7HrN449rs/33250?token=QhVcUhcJRggXBgReBgdRDFFVAQIDXlZaU1QHUVFUB1MIVlYCBlNTAgRGGURBEkJRAFtpWgVEXlBWVgBRSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWVlFYABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Movie", BOO
-http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
 #EXTINF:-1 tvg-id="MY/SG" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movie", CINEMA WORLD
 http://62.210.246.131:25461/live/gxfgss/HHVVPP/28687.ts?token=HhVYAkpZQF8XVwMMBwUOAgENXQdTXlIEBAsOUFFRA1gBBQRbCgYBVwcTThtFQ0pVUlk6X1QaWVNdBABUG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACUAdWURsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
@@ -111,15 +108,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="News",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png" group-title="News",Bloomberg 
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-
-#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png" group-title="News",HBO
-http://forsat.men:8888/merpatistream/merpati99/4828
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.manis.fm/web/media/2018/01/manisfm-player-300x300.png" group-title="Radio", Manis FM
 http://ingest2.husa.rastream.com/husa-manis
