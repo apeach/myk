@@ -1,10 +1,10 @@
 #EXTM3U
   
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",RTM TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/1200px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="Malaysia",RTM TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_TV3_%28Malaysia%29.svg/1280px-Logo_of_TV3_%28Malaysia%29.svg.png" group-title="Malaysia",TV 3
  https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR8szGoMe5DjEhHZhBvCQH8)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com
