@@ -10,7 +10,7 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|R
  https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR8szGoMe5DjEhHZhBvCQH8)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="Malaysia", Astro RIA
-https://linear-playback.astro.com.my/linear-livefphlf/5022/default_ott_Variant_54004.m3u8|Referer=https://astrogo.astro.com.my
+https://linear-playback.astro.com.my/linear-livefphlf/5022/default_ott_Variant_54004.m3u8?cookie= WZRK_S_W69-8R5-575Z=%7B%22p%22%3A3%2C%22s%22%3A1614002368%2C%22t%22%3A1614002523%7D; WZRK_G=099c6194abc943c8ac559a57105a77a6; _ga=GA1.3.1146871406.1613620036; _gid=GA1.3.1596497642.1614002374; _fbp=fb.2.1613879425823.132268862; _SI_DID_1.16f054658300010afb3d9e8f=0064b997-9cd5-33c6-b596-0b0ad0ea9f4e; _SI_VID_1.16f054658300010afb3d9e8f=ec48b2fa9bfacb40f0e658bc; _hjid=98c1ed35-e55a-478f-96fd-c2f9521070c4; _gcl_au=1.1.142439679.1613620036; __cfduid=d22962fe6a7cc34ccf82296ed424b60d91612883948
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_357.png" group-title="Malaysia", Astro PRIMA
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
