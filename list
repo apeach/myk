@@ -13,43 +13,37 @@ https://197729183.r.fdccdn.net/review_stream/tv3kbmm21/i.m3u8
 https://androidrepublica.website/List/Dailymotion/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="NTV7.my" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title="Malaysia", NTV7
-https://androidrepublica.website/List/Dailymotion/ntv7.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbm3i1RBAu13QLmodTVb-pE)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-id="TV6.my" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="Malaysia", TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="TV8.my" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="Malaysia",8TV
-https://androidrepublica.website/List/Dailymotion/8tv.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXNhC04aCpup3PEb-dQ8AmA)/dm/3/x6qud17/s/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="TV9.my" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="Malaysia",TV9
-https://androidrepublica.website/List/Dailymotion/tv9.m3u8|https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQ6TuKDYi4ziPPodSE9j21s)/dm/3/x6qqja6/s/live-4.m3u8|https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="DramaSangat.my" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="Malaysia",Drama Sangat
-https://androidrepublica.website/List/Dailymotion/drama.m3u8|https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0oPyEklKyp4tJbZFb-H_4sY)/dm/3/x6zvnex/s/live-4.m3u8|https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png" group-title="Islamik",TV Alhijrah
 http://62.210.246.131:25461/gxfgss/HHVVPP/28636?token=HhVYAkpZQF8XVwEADlNdAVABXVcDCVBYAFAAAAQDBFJTAABXX1AEBg0TThtFQ0pVUlk6X1QaWVNdBAtVG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1QAUgdTUBsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
-https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Knowledge", Nat Geo Wild
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28750?token=HhVYAkpZQF8XBlBdDgEPVAMDAVJUWQVTA1AIBwZWAVYEVVNWDlcHUFYTThtFQ0pVUlk6X1QaWVNdBQ1TG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFALCFIAVg5UXRsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
- 
-#EXTINF:-1 ttvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Knowledge", Net Geo People
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28751?token=HhVYAkpZQF8XVFpYB1EMVQMNUFUFWQcDXAVeBg5dUgNUVgQFDAZSXFETThtFQ0pVUlk6X1QaWVNdBQ1SG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFALCFIAVg9TVRsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
- 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://i1.wp.com/chipandco.com/wp-content/uploads/2019/07/National-Geographic-Logo.png?ssl=1" group-title="Knowledge", National Geographic
-http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28752?token=QhVcUhcJRggXUlZQBlYJBFIEVVVZA1MHXQFQBVNaUwcOUVFQUlIBBwxGGURBEkJRAFtpWgVEXlFdUwBTSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWVFFXCxsWQw0FRggXVQVSB1QSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAQ1VFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRAFfABYc
+ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png" group-title="Sport",RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png" group-title="News",Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream06/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png" group-title="News",BERNAMA 
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="News",Berita RTM
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="News",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
