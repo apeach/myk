@@ -84,7 +84,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YjMwNDlhNmMtZmNjYS0zMDMzLWJhODYtMjQwMDAzNmQ2NzAz
-#EXTINF:-1 tvg-id="403" tvg-chno="403" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/414.png",FOX Family Movies HD
+#EXTINF:-1 tvg-id="403" tvg-chno="403" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/200px-Fox_Family_Movies_logo.svg.png",FOX Family Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
