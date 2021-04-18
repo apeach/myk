@@ -67,7 +67,7 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u
 #EXTINF:-1 tvg-id="CHN" tvg-chno="141" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png",CITRA HD
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png",Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
