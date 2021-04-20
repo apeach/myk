@@ -36,6 +36,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 #EXTINF:-1 tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png" group-title="Malaysia", Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YjMwNDlhNmMtZmNjYS0zMDMzLWJhODYtMjQwMDAzNmQ2NzAz
 #EXTINF:-1 tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
