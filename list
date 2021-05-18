@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/unifitv.xml" url-tvg="https://weareblahs.github.io/epg/unifitv.xml" refresh="3600"
   
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="101" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
@@ -10,7 +10,7 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|R
 https://197729183.r.fdccdn.net/review_stream/tv3kbmm21/i.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzRiNTJlNjMtYTA1OC0zNjVjLWE5YTgtMmM0ZmY2OTM2OGU0
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjA0MWIzNGYtODdiMi0zMGNhLTgyMjMtNGI3NDU2YTAxYjVm
 #EXTINF:-1 tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
@@ -79,7 +79,7 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzRiNTJlNjMtYTA1OC0zNjVjLWE5YTgtMmM0ZmY2OTM2OGU0
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjA0MWIzNGYtODdiMi0zMGNhLTgyMjMtNGI3NDU2YTAxYjVm
 #EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/413.png",FOX Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
  
