@@ -23,7 +23,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Astro_Ria_HD.png/220px-Astro_Ria_HD.png" group-title="Malaysia", Ria
 http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://logos.fandom.com/wiki/Astro_Warna?file=Astro_Warna_HD.png" group-title="Malaysia", Warna HD
+#EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Astro_Warna_HD.png/" group-title="Malaysia", Warna HD
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-title="Malaysia", NTV7
