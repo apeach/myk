@@ -168,6 +168,18 @@ http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg" group-title="Sport",Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="Sport",Supersport
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="Sport",Supersport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" group-title="Sport",Supersport 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png" group-title="Sport",Supersport 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="Sport",Sukan RTM
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
