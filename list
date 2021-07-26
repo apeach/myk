@@ -7,7 +7,7 @@ https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8|Referer=https://my
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
@@ -33,12 +33,12 @@ http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjA0MWIzNGYtODdiMi0zMGNhLTgyMjMtNGI3NDU2YTAxYjVm
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV HD
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
@@ -46,22 +46,22 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
 http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="CHN" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="CHN" tvg-chno="116" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="CHN" tvg-chno="118" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",HyppInspirasi HD
 http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 
@@ -72,7 +72,7 @@ https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0oPyEklKyp4tJbZFb-
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="CHN" tvg-chno="141" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
 http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 
@@ -80,7 +80,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="CHN" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
@@ -91,77 +91,77 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/413.png",FOX Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="402" tvg-chno="402" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/200px-Fox_Action_Movies_logo.svg.png",FOX Action Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="403" tvg-chno="403" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/200px-Fox_Family_Movies_logo.svg.png",FOX Family Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="411" tvg-chno="411" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
 http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="408" tvg-chno="408" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network HD
 http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="228" tvg-chno="228" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064916067nrf.png",Star Chinese Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png",Star Chinese Movies Legend HD
 http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 group-title="Chinese Variety" tvg-id="CHN" tvg-chno="233" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png",Now Jelli HD
 http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 group-title="Indian Variety" tvg-id="CHN" tvg-chno="311" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",Colors Tamil HD
 http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 group-title="Indian Variety" tvg-id="CHN" tvg-chno="341" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",Colors
 http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="211" tvg-chno="211" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",TVN HD
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 tvg-id="201" tvg-chno="201" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",TVN Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 group-title="Kids" tvg-id="552" tvg-chno="552" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png",552 Nick Jr.
 http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 group-title="Kids" tvg-id="553" tvg-chno="553" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png",553 CBeebies HD
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmFjMWM4NzctN2QwMy0zYzU5LWEzYTItOTMxNWQ1YzA0YzEz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTA5Mjc5MTktNmQyNC0zNTQ4LWExMTMtMTY1NWY1YzhmNDhh
 #EXTINF:-1 group-title="Kids" tvg-id="554" tvg-chno="554" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",554 Nickelodeon
 http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
 
@@ -191,6 +191,479 @@ https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Berita_RTM.png" group-title="News",Berita RTM
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 type="movies" group-title="Tokyo 2020 Olympics" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmNDI5MDktZWY0Zi00OTQ2LWJjYjUtMGQ0NjlkZDdkNzRlXkEyXkFqcGdeQXVyNzQxMTAxNDc@._V1_FMjpg_UX800_.jpg", Tokyo 2020 Olympics Opening Ceremony (24/7/2021, Sooka, ENG)
+https://files-ms-sg.samsam123.tk/Olympics/2020/Tokyo%202020%20Opening%20Ceremony%2023%20July%202021.ts
+
+#EXTINF:-1 type="movies" group-title="Tokyo 2020 Olympics" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmNDI5MDktZWY0Zi00OTQ2LWJjYjUtMGQ0NjlkZDdkNzRlXkEyXkFqcGdeQXVyNzQxMTAxNDc@._V1_FMjpg_UX800_.jpg", Badminton: MAS vs GER (25/7/2021, RTM Olympics, ENG)
+https://files-ms-sg.samsam123.tk/Olympics/2020/Tokyo%202020%20Badminton%20MAS-GER%2025%20July%202021.mp4
+
+#EXTINF:-1 type="movies" group-title="Tokyo 2020 Olympics" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmNDI5MDktZWY0Zi00OTQ2LWJjYjUtMGQ0NjlkZDdkNzRlXkEyXkFqcGdeQXVyNzQxMTAxNDc@._V1_FMjpg_UX800_.jpg", Badminton: MAS vs UKR (25/7/2021, RTM Olympics, ENG)
+https://files-ms-sg.samsam123.tk/Olympics/2020/Tokyo%202020%20Badminton%20MAS-UKR%2025%20July%202021.ts
+
+#EXTINF:-1 type="movies" group-title="Tokyo 2020 Olympics" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmNDI5MDktZWY0Zi00OTQ2LWJjYjUtMGQ0NjlkZDdkNzRlXkEyXkFqcGdeQXVyNzQxMTAxNDc@._V1_FMjpg_UX800_.jpg", Badminton: MAS vs JPN (25/7/2021, TV Okey, MLY)
+https://files-ms-sg.samsam123.tk/Olympics/2020/Tokyo%202020%20Badminton%20MAS-JPN%2025%20July%202021.ts
+
+#EXTINF:-1 type="movies" group-title="Tokyo 2020 Olympics" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmNDI5MDktZWY0Zi00OTQ2LWJjYjUtMGQ0NjlkZDdkNzRlXkEyXkFqcGdeQXVyNzQxMTAxNDc@._V1_FMjpg_UX800_.jpg", Badminton: MAS vs CHN (26/7/2021, RTM Olympics, ENG)
+https://files-ms-sg.samsam123.tk/Olympics/2020/Tokyo%202020%20Badminton%20MAS-CHN%2026%20July%202021%20RTM%20ENG.ts
+
+#EXTINF:-1 type="movies" group-title="Tokyo 2020 Olympics" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmNDI5MDktZWY0Zi00OTQ2LWJjYjUtMGQ0NjlkZDdkNzRlXkEyXkFqcGdeQXVyNzQxMTAxNDc@._V1_FMjpg_UX800_.jpg", Badminton: MAS vs INA (26/7/2021, RTM Olympics, ENG)
+https://files-ms-sg.samsam123.tk/Olympics/2020/Tokyo%202020%20Badminton%20MAS-INA%2026%20July%202021.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="movies" group-title="Tokyo 2020 Olympics" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202008/20200812/20200812070013034u5e_op.jpg", Olympic Flame Event "One Year To Go" (23/6/2021)
+http://1.9.62.158/88888888/16/20200812/268712989/268712989.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: #TanyaSaya" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200323/20200323031143041kcq_op.jpg", #TanyaSaya S01E01
+http://1.9.62.158/88888888/16/20200306/268687800/268687800.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: #TanyaSaya" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200323/20200323031143041kcq_op.jpg", #TanyaSaya S01E02
+http://1.9.62.158/88888888/16/20200322/268690623/268690623.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: MMU Shorties" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202106/20210608/2021060809333184736t_op.jpg", Air
+http://1.9.62.158/88888888/16/20210602/268744907/268744907.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: MMU Shorties" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202106/20210602/202106021514251439jh_op.jpg", Alright then...
+http://1.9.62.158/88888888/16/20210602/268744912/268744912.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: MMU Shorties" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202106/20210602/20210602142310893e39_op.jpg", Balas
+http://1.9.62.158/88888888/16/20210602/268744894/268744894.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: MMU Shorties" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202106/20210608/202106080917360455cs_op.jpg", Ban
+http://1.9.62.158/88888888/16/20210602/268744930/268744930.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: MMU Shorties" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202106/20210608/20210608092446028w16_op.jpg", Dirt
+http://1.9.62.158/88888888/16/20210602/268744904/268744904.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: MMU Shorties" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202106/20210602/20210602145026196h7x_op.jpg", Hidden Gems
+http://1.9.62.158/88888888/16/20210602/268744904/268744904.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E01
+http://1.9.62.158/88888888/16/20191101/268665067/268665067.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E02
+http://1.9.62.158/88888888/16/20191101/268665025/268665025.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E03
+http://1.9.62.158/88888888/16/20191101/268664751/268664751.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E04
+http://1.9.62.158/88888888/16/20191101/268664733/268664733.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E05
+http://1.9.62.158/88888888/16/20191101/268665091/268665091.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E06
+http://1.9.62.158/88888888/16/20191101/268665028/268665028.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E07
+http://1.9.62.158/88888888/16/20191101/268664805/268664805.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E08
+http://1.9.62.158/88888888/16/20191101/268664778/268664778.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E09
+http://1.9.62.158/88888888/16/20200129/268679927/268679927.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E10
+http://1.9.62.158/88888888/16/20200129/268679706/268679706.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E11
+http://1.9.62.158/88888888/16/20200129/268679930/268679930.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E12
+http://1.9.62.158/88888888/16/20200129/268679709/268679709.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E13
+http://1.9.62.158/88888888/16/20200129/268679995/268679995.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E14
+http://1.9.62.158/88888888/16/20200129/268679712/268679712.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E15
+http://1.9.62.158/88888888/16/20200129/268680001/268680001.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E16
+http://1.9.62.158/88888888/16/20200129/268679715/268679715.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E17
+http://1.9.62.158/88888888/16/20200129/268679998/268679998.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E18
+http://1.9.62.158/88888888/16/20200129/268679933/268679933.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E19
+http://1.9.62.158/88888888/16/20200129/268679718/268679718.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E20
+http://1.9.62.158/88888888/16/20200129/268679939/268679939.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E21
+http://1.9.62.158/88888888/16/20200129/268679936/268679936.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E22
+http://1.9.62.158/88888888/16/20200129/268680007/268680007.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E23
+http://1.9.62.158/88888888/16/20200129/268680004/268680004.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E24
+http://1.9.62.158/88888888/16/20200129/268679942/268679942.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E25
+http://1.9.62.158/88888888/16/20200129/268680010/268680010.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E26
+http://1.9.62.158/88888888/16/20200129/268679721/268679721.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E27
+http://1.9.62.158/88888888/16/20200129/268679724/268679724.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E28
+http://1.9.62.158/88888888/16/20200129/268679948/268679948.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E29
+http://1.9.62.158/88888888/16/20200129/268680013/268680013.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E30
+http://1.9.62.158/88888888/16/20200129/268679945/268679945.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E31
+http://1.9.62.158/88888888/16/20200129/268680016/268680016.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E32
+http://1.9.62.158/88888888/16/20200129/268680019/268680019.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E33
+http://1.9.62.158/88888888/16/20200129/268679733/268679733.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E34
+http://1.9.62.158/88888888/16/20200129/268679730/268679730.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E35
+http://1.9.62.158/88888888/16/20200129/268679736/268679736.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E36
+http://1.9.62.158/88888888/16/20200129/268680022/268680022.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E37
+http://1.9.62.158/88888888/16/20200204/268680468/268680468.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E38
+http://1.9.62.158/88888888/16/20200204/268680763/268680763.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E39
+http://1.9.62.158/88888888/16/20200204/268680471/268680471.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E40
+http://1.9.62.158/88888888/16/20200204/268680686/268680686.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E41
+http://1.9.62.158/88888888/16/20200204/268680760/268680760.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E42
+http://1.9.62.158/88888888/16/20200204/268680766/268680766.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E43
+http://1.9.62.158/88888888/16/20200204/268680769/268680769.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: DW Try This!" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200122/20200122012442635wdr_op.jpg", DW Try This! S01E44
+http://1.9.62.158/88888888/16/20200204/268680692/268680692.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: #apakatamereka" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200313/20200313073801334jgf_op.jpg", #apakatamereka S01E01
+http://1.9.62.158/88888888/16/20200313/268689323/268689323.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: #apakatamereka" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200313/20200313073801334jgf_op.jpg", #apakatamereka S01E02
+http://1.9.62.158/88888888/16/20200316/268689916/268689916.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: #apakatamereka" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200313/20200313073801334jgf_op.jpg", #apakatamereka S01E03
+http://1.9.62.158/88888888/16/20200322/268690852/268690852.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: #apakatamereka" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200313/20200313073801334jgf_op.jpg", #apakatamereka S01E07
+http://1.9.62.158/88888888/16/20201001/268719122/268719122.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: #apakatamereka" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200313/20200313073801334jgf_op.jpg", #apakatamereka S01E08
+http://1.9.62.158/88888888/16/20201004/268719605/268719605.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Lifestyle" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/20190416/SP/SP0035794715/9a7b7091-cd6e-4dd8-867e-fc215872c89e.jpg", #Khabarbaik Noh Prank Show
+http://1.9.62.158/88888888/16/20191014/268661041/268661041.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Entertainment" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/20190415/SP/SP0003571/2dbea7dc-bf11-468b-812b-be7b26735c1f.jpg, 3 Kata-Kata S01E09
+http://1.9.62.158/88888888/16/20200122/268679005/268679005.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Entertainment" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/20190415/SP/SP0003571/2dbea7dc-bf11-468b-812b-be7b26735c1f.jpg", 3 Kata-Kata S01E10
+http://1.9.62.158/88888888/16/20200204/268680775/268680775.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Entertainment" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/20190415/SP/SP0003571/2dbea7dc-bf11-468b-812b-be7b26735c1f.jpg", 3 Kata-Kata S01E11
+http://1.9.62.158/88888888/16/20200122/268678994/268678994.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Entertainment" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/20190415/SP/SP0003571/2dbea7dc-bf11-468b-812b-be7b26735c1f.jpg", 3 Kata-Kata S01E12
+http://1.9.62.158/88888888/16/20200305/268687152/268687152.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Entertainment" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/201910/20191023/20191023053011760v0r.jpg", Aroma Masak - Zetty Rashid
+http://1.9.62.158/88888888/16/20191101/268664784/268664784.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E01
+http://1.9.62.158/88888888/16/20191014/268661039/268661039.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E02
+http://1.9.62.158/88888888/16/20191014/268661023/268661023.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E03
+http://1.9.62.158/88888888/16/20191014/268661042/268661042.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E04
+http://1.9.62.158/88888888/16/20191014/268660725/268660725.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E05
+http://1.9.62.158/88888888/16/20191014/268661029/268661029.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E07
+http://1.9.62.158/88888888/16/20191014/268661045/268661045.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E08
+http://1.9.62.158/88888888/16/20191014/268661035/268661035.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E10
+http://1.9.62.158/88888888/16/20191101/268664802/268664802.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Dance Society" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202001/20200116/20200116091059662jma_op.jpg", Dance Society S01E11
+http://1.9.62.158/88888888/16/20191014/268661038/268661038.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E01
+http://1.9.62.158/88888888/16/20200323/268690842/268690842.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E02
+http://1.9.62.158/88888888/16/20200323/268690839/268690839.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E03
+http://1.9.62.158/88888888/16/20200323/268691071/268691071.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E04
+http://1.9.62.158/88888888/16/20200325/268691296/268691296.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E05
+http://1.9.62.158/88888888/16/20200323/268691072/268691072.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E06
+http://1.9.62.158/88888888/16/20200323/268691068/268691068.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E07
+http://1.9.62.158/88888888/16/20200323/268691069/268691069.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E08
+http://1.9.62.158/88888888/16/20200323/268691059/268691059.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E09
+http://1.9.62.158/88888888/16/20200323/268691056/268691056.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E10
+http://1.9.62.158/88888888/16/20200323/268691060/268691060.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E11
+http://1.9.62.158/88888888/16/20200323/268691063/268691063.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: Drama 7 Petang" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200324/20200324023321337ly3_op.jpg", Drama 7 Petang S01E12
+http://1.9.62.158/88888888/16/20200323/268690833/268690833.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: LOL" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/201912/20191219/20191219035738319z6k.jpg", Hantu Tales S01E01
+http://1.9.62.158/88888888/16/20200203/268680372/268680372.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: LOL" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/201912/20191219/20191219035738319z6k.jpg", Hantu Tales S01E02
+http://1.9.62.158/88888888/16/20200203/268680578/268680578.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: LOL" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/201912/20191219/20191219035738319z6k.jpg", Hantu Tales S01E03
+http://1.9.62.158/88888888/16/20200203/268680581/268680581.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: LOL" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/201912/20191219/20191219035738319z6k.jpg", Hantu Tales S01E04
+http://1.9.62.158/88888888/16/20200203/268680658/268680658.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: LOL" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/201912/20191219/20191219035738319z6k.jpg", Hantu Tales S01E05
+http://1.9.62.158/88888888/16/20200203/268680369/268680369.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGI1MDc2NzMtN2ZjMS0zOGU5LWIxMTItZTA4MmVhODFiMGJm
+#EXTINF:-1 type="series" group-title="Snek: LOL" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/201912/20191219/20191219035738319z6k.jpg", Hantu Tales S01E06
+http://1.9.62.158/88888888/16/20200203/268680649/268680649.mpd
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.manis.fm/web/media/2018/01/manisfm-player-300x300.png" group-title="Radio", Manis FM
 http://ingest2.husa.rastream.com/husa-manis
