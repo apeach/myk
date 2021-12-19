@@ -13,7 +13,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3" group-title="Malaysia"
+#EXTINF:-1 tvg-group="MY/SG" tvg-id="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="Malaysia", TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR3oViYzbZFnLtrfxMtEw2A)/dm/3/x6qp375/d/live-1.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="104" tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome" group-title="Malaysia", Awesome TV
@@ -40,11 +40,8 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 #EXTINF:-1 group-title="Chinese Variety" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.license_key=http://ottweb.hypp.tv/PlayReady/rightsmanager.asmx?deviceId=ZjRjZTdmMTgtYzNiOC0zZDE0LTkzMGYtNjc1ZjYwYmQ5M2Fj
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
-https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
+#EXTINF:-1 tvg-group="MY/SG" tvg-id="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png" group-title="Malaysia", TV9
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR3oViYzbZFnLtrfxMtEw2A)/dm/3/x6qp375/d/live-1.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png" group-title="Malaysia", Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
