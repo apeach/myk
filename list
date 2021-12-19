@@ -19,11 +19,14 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-id="104" tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome" group-title="Malaysia", Awesome TV
+http://urtv.cc:80/penang043/penang043/9016
+
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Astro_Prima_HD.png/200px-Astro_Prima_HD.png" group-title="Malaysia", Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Astro_Ria_HD.png/220px-Astro_Ria_HD.png" group-title="Malaysia", Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+https://my.odtv.uk/live/9486331171/7860879594/13.ts
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Astro_Warna_HD.png/" group-title="Malaysia", Warna HD
 http://iptv.tvmalaysia.cc:80/989898/989898/6740
@@ -66,6 +69,8 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",HyppInspirasi HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227601/3221227601.mpd
+
+EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malaysia", Astro Citra HD https://tinyurl.com/bdzdhh34
 
 #KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
 #KODIPROP:inputstream.adaptive.license_key=http://ottweb.hypp.tv/PlayReady/rightsmanager.asmx?deviceId=ZjRjZTdmMTgtYzNiOC0zZDE0LTkzMGYtNjc1ZjYwYmQ5M2Fj
