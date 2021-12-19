@@ -2,7 +2,7 @@
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZWIxNDI3NWEtNzk5OC0zZDJmLWFjNGItMjA4YmU1ZThjNzMz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:81/PlayReady/rightsmanager.asmx?deviceId=ZWIxNDI3NWEtNzk5OC0zZDJmLWFjNGItMjA4YmU1ZThjNzMz
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
