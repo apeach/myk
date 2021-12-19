@@ -19,6 +19,8 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
+
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="104" tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome" group-title="Malaysia", Awesome TV
 http://urtv.cc:80/penang043/penang043/9016
 
