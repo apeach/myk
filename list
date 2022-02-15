@@ -33,8 +33,8 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 #EXTINF:-1 group-title="Chinese Variety" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
 https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png" group-title="Malaysia", TV9
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR3oViYzbZFnLtrfxMtEw2A)/dm/3/x6qp375/d/live-1.m3u8
+#EXTINF:-1 tvg-group="MY/SG" tvg-id="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png" group-title="Malaysia", TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png" group-title="Malaysia", Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
