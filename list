@@ -7,7 +7,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="Malaysia", TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="104" tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome" group-title="Malaysia", Awesome TV
 http://urtv.cc:80/penang043/penang043/9016
@@ -34,7 +34,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png" group-title="Malaysia", TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png" group-title="Malaysia", Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
