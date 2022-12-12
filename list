@@ -1,79 +1,91 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" group-title="Malaysia", TV1
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1|Referer=https://rtm-player.glueapi.io/
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png" group-title="Malaysia", TV2
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2|Referer=https://rtm-player.glueapi.io/
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="Malaysia", TV3
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="104" tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome" group-title="Malaysia", Awesome TV
-http://iptv12k.com:35461/80201051217/424567/743
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Astro_Prima_HD.png/200px-Astro_Prima_HD.png" group-title="Malaysia", Prima
-http://iptv12k.com:35461/80201051217/424567/734
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Astro_Ria_HD.png/220px-Astro_Ria_HD.png" group-title="Malaysia", Ria
-http://iptv12k.com:35461/80201051217/424567/735
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Astro_Warna_HD.png/" group-title="Malaysia", Warna HD
-http://iptv12k.com:35461/80201051217/424567/733
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|Referer=https://www.dailymotion.com
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3|Referer=https://rtm-player.glueapi.io/
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Referer=https://www.dailymotion.com
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4|Referer=https://rtm-player.glueapi.io/
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png" group-title="Malaysia", TV9
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6|Referer=https://rtm-player.glueapi.io/
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png" group-title="Malaysia", Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/114.png",TV Alhijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11ec8005ad1f1e0e9f60/index.m3u8
 
-#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra(A)" tvg-logo="https://i.ytimg.com/vi/pP-aeIZ2D-I/maxresdefault.jpg" group-title="Malaysia(MY)",ASTRO Citra(A)
-http://iptv12k.com:35461/80201051217/424567/721
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
-#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="Malaysia(MY)",HBO HD
-http://iptv12k.com:35461/80201051217/424567/599
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="Malaysia(MY)",HBO Hits
-http://iptv12k.com:35461/80201051217/424567/598
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="Malaysia(MY)",HBO Family
-http://iptv12k.com:35461/80201051217/424567/597
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="Malaysia(MY)",HBO Signature
-http://iptv12k.com:35461/80201051217/424567/596
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" ch-number="956" tvg-id="CHN" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
-https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac?DIST=TuneIn
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png",Traxx FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" ch-number="958" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?DIST=TuneIn
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.png",Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.manis.fm/web/media/2018/01/manisfm-player-300x300.png" group-title="Radio", Manis FM
-http://ingest2.husa.rastream.com/husa-manis
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOAIFMLOGO170X96.png",Ai FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/whb4utLhtp.png" group-title="Radio", Era FM
-http://astro2.rastream.com/era
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/U64mECYBuK.jpg" group-title="Radio", Hitz FM
-http://astro2.rastream.com/hitz
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/cyqqphe6KP.png" group-title="Radio", Hot FM
-http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/MFvmSRmJDc.jpg" group-title="Radio", Suria FM
-http://starrfm.rastream.com/starrfm-suria.android
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/6WpzDY2yrH.jpg" group-title="Radio", Sinar FM
-http://astro2.rastream.com/sinar
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/aYVbJaEnPR.png" group-title="Radio", Thr Gegar
-http://astro2.rastream.com/gegar
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.astroawani.com/images/stdastro_300x250_arena_1.jpg" group-title="Radio", ARENA FM
-http://astro1.rastream.com/amp-arena
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",Sabah FM
+https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg",Sabah VFM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
+https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
+https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_hotfm_master.png",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_buletinfm_master.png",Buletin FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_flyfm_master.png",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_8fm_master.png",8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2022/01/logo_molekfm_master.png",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
